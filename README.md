@@ -40,6 +40,7 @@
     - 创建用户模块，可以使用Laravel Auth完成用户登录，注册，找回密码，但我们设置为手机号为唯一索引。
     - 用户可以可以编辑修改自己的资料，上传头像。
     - 使用composer安装一个admin cms，可以管理前台用户的信息即可。
+    - 合理化设计路由，基于resource路由尤佳。
 
     * 要求使用PHP+Apache/Nginx+MySql(版本不限)
     * 框架要求Laravel
