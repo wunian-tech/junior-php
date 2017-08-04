@@ -23,8 +23,10 @@
 
 - [laravel官网](https://laravel.com/)
 - [TP5.0手册](https://www.kancloud.cn/manual/thinkphp5)
+- [Laravel相關资料](https://github.com/wunian-tech/php-docs/blob/master/docs/laravel_docs.md)
 
-### TEST 3
+
+### TEST 2
 ---
 #### 内容描述
 
@@ -54,3 +56,4 @@
 - [laravel官网](https://laravel.com/)
 - [laravel服务 - 用户认证](http://laravelacademy.org/post/3074.html)
 - [laravel HTTP控制器实例教程 - 创建RESTFul风格控制器实现文章增删改查](http://laravelacademy.org/post/549.html)
+- [Laravel相關资料](https://github.com/wunian-tech/php-docs/blob/master/docs/laravel_docs.md)
